@@ -4,6 +4,12 @@
 [![Language: Multi](https://img.shields.io/badge/Languages-Swift%20|%20Ruby%20|%20Obj--C%20|%20Pascal%20|%20C-blue.svg)]()
 [![Platform: Cross-Platform](https://img.shields.io/badge/Platform-Cross--Platform-green.svg)]()
 
+</br>
+<img width="836" height="563" alt="image" src="https://github.com/user-attachments/assets/c425fe41-41c9-4f43-ace0-48f905ac35ea" />
+
+</br>
+
+
 A comprehensive, multi-language implementation of formal language theory concepts featuring finite state machines (FSM), regular expression matching, and automata visualization. This project demonstrates advanced algorithm design and compiler theory principles through interactive simulations.
 
 ---
@@ -70,7 +76,8 @@ This simulator provides a complete toolkit for understanding and working with fo
 
 ```
 automata-simulator/
-├── README.md
+├── automata_simulator.tsx           # TypeScript Artifact
+├── AutomataSimulator.swift          # Swift implementation
 ├── AutomataSimulator.swift          # Swift implementation
 ├── automata_simulator.rb            # Ruby implementation
 ├── AutomataSimulator.m              # Objective-C implementation
@@ -387,14 +394,6 @@ This project synthesizes concepts from:
 
 ---
 
-## 📞 Contact & Portfolio
-
-This project is part of a comprehensive software engineering portfolio demonstrating:
-- Theoretical computer science expertise
-- Practical algorithm implementation
-- Multi-paradigm programming proficiency
-- Interactive software design
-- Educational technology development
 
 For inquiries about implementation details or technical discussions, please reach out via GitHub.
 
